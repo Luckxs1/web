@@ -1,5 +1,11 @@
-<?php require_once "./components/head.php" ?>
-<div class="container">
-    <h1>Sample Text</h1>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi dicta magnam praesentium illo tenetur facere ullam, numquam, mollitia rem dolorem similique laborum maxime saepe corrupti, fugiat adipisci. Suscipit, explicabo impedit.</p>
+<?php require_once 'components/head.php'; ?>
+<div class="col">
+    <div class="p-5 shadow bg-white">
+       <h1>Welcome Page</h1>
+    </div>      
 </div>
+
+<?php
+require_once 'components/foot.php';
+
+/* EoF */
