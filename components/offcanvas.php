@@ -23,12 +23,12 @@
                             </a>
                         </li>
                         <li>
-                            <a href="<?= $BASE_DIR ?>/crud.create" class="nav-link px-3 active">
+                            <a href="<?= $BASE_DIR ?>/go.data" class="nav-link px-3 active">
                                 <span class="me-2">
                                     <i class="bi bi-speedometer2"></i>
                                 </span>
                                 <span data-bs-toggle="offcanvas" href="#offcanvasExample" role="button">
-                                   Null
+                                   General Order
                                 </span>
                             </a>
                         </li>

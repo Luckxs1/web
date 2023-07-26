@@ -19,6 +19,10 @@ class Router {
                     $pageTitle = "Home Page";
                     require_once "page/home.php";
                     break;
+                case "go.data":
+                    $pageTitle = "General Order";
+                    require_once "page/go.data.php";
+                    break;
                 default:
                     require_once "page/404.php";
             }
